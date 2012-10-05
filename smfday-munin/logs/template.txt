@@ -1,0 +1,3 @@
+[2012-10-01 10:01:22] Template_info.ERROR: An error occurred [] []
+[2012-10-01 10:01:23] Template_info.ERROR: An error occurred [] []
+[2012-10-01 10:02:06] Template_info.ERROR: An error occurred [] []
